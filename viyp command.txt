@@ -1,5 +1,0 @@
-apt-get update -y
-apt-get install git
-git clone https://github.com/BOT-CODER/SniperMan.git
-cd SniperMan
-python3 viyp.py
